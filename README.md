@@ -8,8 +8,10 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**. The
 - Dynamic message display based on game results.
 - Randomized computer choices.
 
-## Live Demo
-[Click here to play the game](#) *(Replace with actual hosted link if available)*
+## Demo
+
+You can try out the live demo of the game here:  
+[Rock-Paper-Scissors Demo](https://sanjaypandit1.github.io/Rock-Paper-Scissor/)
 
 ## Installation
 1. Clone the repository:
